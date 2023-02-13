@@ -32,6 +32,7 @@
       placeholder="Enter Email"
       name="email"
       id="email"
+      value="info@muraliprashanth.me"
       required
     />
     <br />
